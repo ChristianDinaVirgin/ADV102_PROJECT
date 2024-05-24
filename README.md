@@ -1,1 +1,2 @@
-# ADV102_PROJECT
+npm install
+npm run start
